@@ -5,10 +5,11 @@ TechNewsWebsite
 An application used to filter Tech news using the <a href="https://newsapi.org">NewsApi</a> platform, built with React,JavaScript, and CSS.
 
 ## Project Status
-Ongoing
+completed
 
+## Screenshot
+![Alt text](technews/img/Screenshot.png)
 
-This project is currently in development.
 
 
 ## Installation and Setup Instructions
