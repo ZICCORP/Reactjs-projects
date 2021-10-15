@@ -9,11 +9,7 @@ completed
 
 ## Screenshot
 ![Alt text](technews/img/Screenshot.png)
-<<<<<<< HEAD
-![Alt text](technews/img/Screenshot2.png)
-=======
->>>>>>> 1c5a4672b9f38109a729ae0f5b993d9225b23e99
-![Alt text](technews/img/Screenshot2.png)
+![Alt text](technews/img/Screenshot1.png)
 
 
 
