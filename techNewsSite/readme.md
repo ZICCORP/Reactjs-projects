@@ -9,7 +9,7 @@ completed
 
 ## Screenshot
 ![Alt text](technews/img/Screenshot.png)
-![Alt text](technews/img/Screenshot1.png)
+![Alt text](technews/img/Screenshot2.png)
 
 
 
